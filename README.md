@@ -14,3 +14,5 @@
 
 
 **改自 https://github.com/v2ray/ext/tree/master/tools/geosites**
+
+**规则参考 https://github.com/h2y/Shadowrocket-ADBlock-Rules**
